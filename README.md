@@ -14,6 +14,30 @@ As part of my Cybersecurity & Ethical Hacking internship with **Networkwalks**, 
 - Explored the online Password Cracker tool.
 - Performed PDF password recovery without local installation.
 
+- ## 📂 Repository Structure
+
+```text
+├── Screenshots
+     |───JONNEY_SETTING
+     |───CONVERT_INTO_HASH
+     |───HASH-1_TEXT_FILE
+     |───CRACKED_PASSWORD_OF_PDF-1
+     |───CRACKED_PDF-1
+     |───HASH-2TEXT_FILE
+     |───CRACKED_PASSWORD_OF_PDF-2
+     |───CRACKED_PDF-2
+     |───HASH-3_TEXT_FILE  
+     |───CRACKED_PASSWORD_OF_PDF-3
+     |───CRACKED_PDF-3
+     |───NW-tool_Conver_into_Hash
+     |───NW-tool_CRAKED_PASSWORD
+     |───CRACKED_NW_PDF
+|
+└─README.md
+```
+
+---
+
 ## 💡 Key Learnings
 
 - PDF hash extraction and analysis.
@@ -35,6 +59,9 @@ All activities were performed for educational purposes as part of the assigned i
 
 ---
 
-**Internship:** Cybersecurity & Ethical Hacking  
-**Organization:** Networkwalks  
-**Week:** 03
+
+<p align="center">
+  <strong>Author: [Azhar Mansuri], Cybersecurity Intern, Networkwalks (B084D) </strong>
+  <br>
+  Learning • Practicing • Documenting
+</p>
